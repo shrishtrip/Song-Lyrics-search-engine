@@ -1,4 +1,4 @@
-# Song-Lyrics-search-engine-
+# Song-Lyrics-search-engine
 ## Domain Specific Information Retrieval System 
 
 * The task is to build a search engine which will cater to the needs of a particular domain. 
